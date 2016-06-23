@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mobilewaptest"
+  id="myeclipse.1410427283344"
+  context-root="/mobilewaptest"
+  j2ee-spec="5.0"
+  archive="mobilewaptest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
